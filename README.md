@@ -1,11 +1,11 @@
 ## 1. 할 일 추가
-https://github.com/user-attachments/assets/64879513-441c-41b5-aaf6-bf58c3b415e3
+https://github.com/user-attachments/assets/7c38435c-1311-4ffe-9289-8ac93679317d
 
 ## 2. 작업 & 휴식 상태 관리
-https://github.com/user-attachments/assets/aa54cf19-3958-4e39-b256-1129b459bd02
+https://github.com/user-attachments/assets/b427f901-1114-4da3-b9df-7b5c8c59547f
 
 ## 3. 할 일 삭제
-https://github.com/user-attachments/assets/7f400aef-4436-45e3-bb1f-795333388c6b
+https://github.com/user-attachments/assets/de7af997-ff56-4726-9670-aa7b5fbecb42
 
 ## 4. 예외 처리
-https://github.com/user-attachments/assets/72f864fb-2c31-47fa-afc0-ce5ab8cd71df
+https://github.com/user-attachments/assets/6d4e2660-3ad2-4459-93c2-d3ced74cb33d
